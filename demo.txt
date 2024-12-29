@@ -1,1 +1,12 @@
-cxvxcvcv
+
+git clone url
+add file in folder
+git status to check added /modified/delete files
+git add . (. means  only modified file/ * means all the files)
+git commit -m "commit msg"
+git push origin branch-name (branch-name could be main/master ect)
+
+git config commands to setup global user
+
+git config credential.username Shree22
+git config credential.email shreerakshaupase1993@gmail.com
